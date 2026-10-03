@@ -68,3 +68,6 @@ The deadline count includes today through seven days ahead, inclusive, and exclu
 ## Provenance
 
 The initial implementation was built with AI assistance. Personal usage, independently understood changes and measured results should be described accurately. No real user adoption, commercial deployment or interview outcomes are claimed.
+## Demo
+
+![Placement Tracker dashboard](image.png)
